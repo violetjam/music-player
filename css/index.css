@@ -350,3 +350,13 @@ dd {
   top: 50%;
   z-index: 995;
 }
+#avatarbox{
+  margin-top: 4px;
+  margin-left: 15px;
+  color: white;
+}
+#avatar{
+  margin-left: 5px;
+  border-radius: 50%;
+  border-color: white;
+}
